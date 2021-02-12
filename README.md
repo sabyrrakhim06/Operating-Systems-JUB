@@ -1,2 +1,5 @@
 # Operating-Systems-JUB
-Operating Systems class taught at Jacobs University Bremen
+
+CO-562. Operating Systems class taught at Jacobs University Bremen
+
+https://cnds.jacobs-university.de/courses/os-2020/
